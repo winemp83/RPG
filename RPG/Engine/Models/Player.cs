@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Engine.Model
+namespace Engine.Models
 {
     public class Player : INotifyPropertyChanged
     {

@@ -1,1 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Monsters>
+  <Monster ID="1" Name="Snake" Pic="Snake.png" MaxHitPoints="4" CurrentHitPoints="4" Exp="5" Gold="1" Weapon="1501" />
+  <Monster ID="2" Name="Rat" Pic="Rat.png" MaxHitPoints="5" CurrentHitPoints="5" Exp="5" Gold="1" Weapon="1502" />
+  <Monster ID="3" Name="Giant Spider" Pic="GiantSpider.png" MaxHitPoints="10" CurrentHitPoints="10" Exp="10" Gold="3" Weapon="1503" />
+</Monsters>
